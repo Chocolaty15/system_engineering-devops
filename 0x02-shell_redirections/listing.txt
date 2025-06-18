@@ -1,0 +1,9 @@
+total 28
+-rwxr-xr-x 1 root root 31 Jun 18 12:20 0-helloworld
+-rwxr-xr-x 1 root root 33 Jun 18 12:27 1-confusedsmiley
+-rwxr-xr-x 1 root root 29 Jun 18 12:28 2-readfile
+-rwxr-xr-x 1 root root 29 Jun 18 12:31 3-tailfile
+-rwxr-xr-x 1 root root 30 Jun 18 12:39 4-sortuniq
+-rwxr-xr-x 1 root root 32 Jun 18 12:42 5-redirectoutput
+-rw-r--r-- 1 root root 80 Jun 18 12:40 hello
+-rw-r--r-- 1 root root  0 Jun 18 12:42 listing.txt
