@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Creating a script that lists files with the part after the first dash
+for i in *
+do
+    echo "$i" | cut -f 2- -d '-'
+done
