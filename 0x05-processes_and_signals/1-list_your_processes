@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 # Bash script that displays a list of current processes with hierarchy
-
-ps -aux --forest
+ps -aux --foresit
